@@ -243,7 +243,8 @@ GAME_OVER = 2'b11
 
 ## 🧪 Testing
 
-Each module includes a comprehensive testbench. To run simulations:
+Each module includes a comprehensive testbench. (email me if you need)
+To run simulations:
 
 1. **Open ModelSim**
 2. **Compile all `.sv` files**
@@ -296,21 +297,8 @@ flappy-bird-fpga/
 - [ ] VGA display output option
 - [ ] Configurable game parameters via switches
 - [ ] Smoother physics with fixed-point arithmetic
-
-## 📄 License
-
-This project is available under the MIT License. See LICENSE file for details.
-
-## 🙏 Acknowledgments
-
-- Original Flappy Bird game by Dong Nguyen
-- DE1-SoC board documentation by Terasic
-- Intel/Altera Quartus Prime toolchain
-- SystemVerilog language specification
-
 ---
 
-**Note**: This is an educational project for learning digital design and FPGA development. The game mechanics are inspired by Flappy Bird but implemented entirely in hardware description language.
 
 ## 📧 Contact
 
