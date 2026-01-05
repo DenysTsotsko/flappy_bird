@@ -2,7 +2,7 @@
 
 A hardware implementation of the classic Flappy Bird game on the DE1-SoC FPGA board with a 16x16 LED matrix display.
 
-[Demo video][https://youtube.com/shorts/UjuSr8K63nM?si=VKpkaa4KB-fdJ2nt]
+[Demo video](https://youtube.com/shorts/UjuSr8K63nM?si=VKpkaa4KB-fdJ2nt)
 
 ## 📋 Table of Contents
 
